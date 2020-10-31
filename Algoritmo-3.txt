@@ -1,0 +1,7 @@
+1. inicio
+2. se ingresa el número con la condicion de que sean de el 2 al 6
+3. se encuetra las tablas de los numeros ingresados si son de el 2 al 6 
+4. si el numero ingresado no es de el 2 al 6 
+5. se presentara no encontre tabla
+6. si el numero ingresado es de el 2 al 6 
+7. se presentara la tabla 

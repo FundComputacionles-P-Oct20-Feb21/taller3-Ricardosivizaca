@@ -1,0 +1,6 @@
+1. Inicio
+2. Se ingresa el monto de el prestamo dado de un año plazo
+3. Se ingresa el valor de el interes mensual.
+4. Se divide el prestamo por el plazo dado y se suma el valor de el interes mensual
+5. Se presenta el pago mensual de el pestamo.
+6. Fin

@@ -1,0 +1,9 @@
+1. Inicio
+2. Se ingresa datos de usuario
+3. Se ingresa el valor de kilovatios
+4. Se ingresa el numero de horas
+5. Se ingresa el numero de kilovatios consumidos al mes
+6. Se divide el numero de kilovatios con el numero de horas
+7. Si el usuario tiene mas de 65 años se debe descontar el 10% de el valor total
+8. Se presenta el total a cancelar de la planilla de luz
+9. Fin

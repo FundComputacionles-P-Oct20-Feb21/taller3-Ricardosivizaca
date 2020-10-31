@@ -2,6 +2,6 @@
 2. Se pide gastos de el priemer hijo
 3. Se pide gastos de el segundo hijo
 4. Se pide gastos de el tercer hijo  
-5. Se realisa la suma de todos los gastos de los hijos.
+5. Se realiza la suma de el primer hijo + segundo hijo + tercer hijo
 6. Se presenta en pantalla el resultado de la suma
-7.fin
+7. Fin

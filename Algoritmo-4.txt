@@ -1,0 +1,6 @@
+1. Inicio
+2. Se pide el valor de 1 minuto
+3. Se pide el numero de minutos consumidos al mes.
+4. Se multiplica el valor de l minuto por el numero de minutos ingresados.
+5. Se presenta el resultado de la multiplicaion
+6. Fin

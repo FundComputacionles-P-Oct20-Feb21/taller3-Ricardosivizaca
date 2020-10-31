@@ -1,0 +1,10 @@
+1. Inicio
+2. Se ingresa datos de usuario
+3. Se ingresa el valor total de netflix 
+4. Se ingresa el valor total de youtube premium
+5. Se ingresa el valor total de dropbox
+6. Se ingresa el valor total de spotify
+7. Se suma el valor total de las cuentas al mes 
+8. Si el usuario es menor de 30 años se descuenta el 20% del total mensual
+9. Se presenta el valor total de pago mensual
+10. Fin

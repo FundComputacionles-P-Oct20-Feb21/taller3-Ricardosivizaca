@@ -1,0 +1,8 @@
+1. Inicio
+2. Se pide el CPU 
+3. Se pide el teclado
+4. Se pide el monitor
+5. Se pide el raton
+6. Se realiza la suma de CPU + teclado + monitor + raton 
+7. Se presenta en pantalla el total de la suma
+8. Fin
