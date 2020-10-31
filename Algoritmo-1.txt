@@ -1,1 +1,6 @@
-hola 
+1. Inicio
+2. Se pide que se ingrese la base
+3. Se pide que se ingres la altura
+4. Se realiza la opreacion de el área de un triangulo la base ingresada por la altura ingresada y se divide para dos
+5. Se presenta en pantalla el area del triangulo
+6. Fin
